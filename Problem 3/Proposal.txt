@@ -1,0 +1,2 @@
+This is my proposal for the database which I plan to create for COMP3005 this semester.
+
