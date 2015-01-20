@@ -1,2 +1,10 @@
 This is my proposal for the database which I plan to create for COMP3005 this semester.
 
+Ideas
+=====
+- weather data for isitcoldoutside.net
+- pharmaceutical data
+- movie data
+- book data
+- catalog of clothes and when I wear each item
+- crazy calendar task keep tracker thing
