@@ -1,5 +1,5 @@
 CPY1.1
-======
+------
 
 I believe that cataloging musical information is legal, especially the lyrics, locations in books, and chord progressions. There are many other websites on the internet that catalog music for the purposes of containing contents such as their lyrics.
 
@@ -18,7 +18,7 @@ https://en.wikipedia.org/wiki/Metadata
 The above link is from Wikipedia, because that's the best online summary of information I was able to find on this topic. Each search similar to "metadata copyright" leads to information about the storage of copyrighted information in digital photography and digital music, instead of the potential issues associated with it.
 
 CPY1.2
-======
+------
 
 Commonly, chord progressions are not something that can be copyrighted. This is because there would quickly be no room for original chord progressions after few songs have been made.
 
@@ -31,7 +31,7 @@ http://legalit.com.au/legaliblog/?p=28
 I'm aware that the above link isn't a Canadian source, but I believe that it is still applicable to the scenario we're facing and can't find any reason that the approach in a Canadian court of law would not be similar.
 
 CPY1.3
-======
+------
 
 I believe that since there is no license accompanied with the file and no clause in the "Forum Rules", that we aren't committing a crime by using the contents of the file posted on iRealPro's forum for the purpose of this project.
 
@@ -42,7 +42,7 @@ http://www.irealb.com/forums/register.php
 Note the "Forum Rules" at the above link.
 
 CPY1.4
-======
+------
 
 This section seems conditional;
 
